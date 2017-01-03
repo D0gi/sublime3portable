@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Git",
+		"HTMLBeautify",
+		"LaTeXTools",
+		"Markdown Preview",
+		"Numix Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeAStyleFormatter"
+	]
+}

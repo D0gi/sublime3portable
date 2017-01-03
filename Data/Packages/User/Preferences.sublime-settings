@@ -1,0 +1,8 @@
+{
+	"dictionary": "Packages/german.package/de_DE_frami.dic",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Numix Dark.sublime-theme"
+}
