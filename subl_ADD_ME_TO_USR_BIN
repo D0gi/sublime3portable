@@ -1,0 +1,10 @@
+#!/bin/sh
+#
+# add this file to '/usr/bin/' or so, as 'subl' or 'sublime'
+#
+#exec /opt/sublime_text/sublime_text "$@"
+exec /home/$USER/git/sublime3portable/sublime_text "$@"
+
+
+
+
