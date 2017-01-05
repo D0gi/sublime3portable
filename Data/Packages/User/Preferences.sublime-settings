@@ -4,5 +4,6 @@
 	[
 		"Vintage"
 	],
-	"theme": "Numix Dark.sublime-theme"
+	"theme": "Numix Dark.sublime-theme",
+	"show_encoding": true
 }
